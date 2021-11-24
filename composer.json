@@ -2,7 +2,7 @@
   "name": "eseperio/yii2-cloudwatch-target",
   "type": "library",
   "description": "A Yii 2 log target for AWS Cloudwatch Logs",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "keywords": ["yii2", "log", "aws", "cloudwatch"],
   "license": "MIT",
   "support": {
