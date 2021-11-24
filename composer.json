@@ -1,5 +1,5 @@
 {
-  "name": "codemonauts/yii2-cloudwatch-logs",
+  "name": "eseperio/yii2-cloudwatch-target",
   "type": "library",
   "description": "A Yii 2 log target for AWS Cloudwatch Logs",
   "version": "1.0.5",
