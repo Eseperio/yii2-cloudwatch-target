@@ -11,7 +11,7 @@ A Yii2 log target for AWS Cloudwatch Logs.
 
 Install the package through [composer](http://getcomposer.org):
 
-    composer require codemonauts/yii2-cloudwatch-logs
+    composer require eseperio/yii2-cloudwatch-logs
 
 And then add this to your application configuration:
 
